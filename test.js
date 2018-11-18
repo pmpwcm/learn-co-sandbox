@@ -1,1 +1,2 @@
-var myNote = "Hello"
+var myNote = "Hello";
+
